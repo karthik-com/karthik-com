@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Karthik Somayajula
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&background=000000&center=true&vCenter=true&width=450&height=40&lines=Full+Stack+Developer;Django+%7C+React+Developer;Problem+Solver;Tech+Explorer;Builder+Mindset" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&background=000000&center=true&vCenter=true&width=450&height=40&lines=Full+Stack+Developer;Django+%7C+React+Developer;Problem+Solver;Tech+Explorer;Builder+Mindset;Tech+Nerd;Potter+Head;" />
   </a>
 </h1>
 
