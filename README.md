@@ -56,6 +56,19 @@ Always exploring new technologies and leveling up my development skills 🚀
   --->
 </p>
 
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik-com&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-com&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-com&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 
