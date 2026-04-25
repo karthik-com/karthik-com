@@ -69,8 +69,6 @@ Always exploring new technologies and leveling up my development skills 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-com&layout=compact&theme=tokyonight" />
 </p>
----
-
 
 <br><br>
 
