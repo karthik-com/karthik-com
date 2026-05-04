@@ -46,7 +46,7 @@ Always exploring new technologies and leveling up my development skills 🚀
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/karthik-somayajula-b346821b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz69eD%2BvKRI6ZWVNXuwyvWQ%3D%3D">
+  <a href="https://www.linkedin.com/in/karthik-somayajula-b346821b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz69eD%2BvKRI6ZWVNXuwyvWQ%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" width="40" />
   </a>
   <!--
